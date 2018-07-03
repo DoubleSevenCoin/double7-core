@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DoubleSevencoin
+Comment=Core wallet for DoubleSevencoin P2P Cryptocurrency
+Comment[de]=Offizieller Client für die Kryptowährung DoubleSevencoin
+Exec=/usr/bin/doublesevencoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/doublesevencoin128.png
+MimeType=x-scheme-handler/doublesevencoin;
+Categories=Application;Network;

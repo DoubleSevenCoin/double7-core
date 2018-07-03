@@ -1,0 +1,7 @@
+usr/local/bin/doublesevencoin-qt usr/bin
+share/pixmaps/doublesevencoin16.png usr/share/pixmaps
+share/pixmaps/doublesevencoin32.png usr/share/pixmaps
+share/pixmaps/doublesevencoin128.png usr/share/pixmaps
+share/pixmaps/doublesevencoin256.png usr/share/pixmaps
+debian/doublesevencoin-qt.desktop usr/share/applications
+debian/doublesevencoin-qt.protocol usr/share/kde4/services/

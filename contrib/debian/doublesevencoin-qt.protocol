@@ -1,0 +1,11 @@
+[Protocol]
+exec=doublesevencoin-qt '%u'
+protocol=doublesevencoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
